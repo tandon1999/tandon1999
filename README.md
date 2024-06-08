@@ -4,18 +4,19 @@
 
 
 <div class="row">
-  <div class="my-6">
-- 🌱 I’m currently learning **.Net framework with Blazor**
-
-- 👯 I’m looking to collaborate on **Projects**
-
-- 📫 How to reach me **sumantandon2056@gmail.com**
+  <div class="my-6" style="flex: 1; padding-right: 10px;">
+    <ul>
+      <li>🌱 I’m currently learning **.Net framework with Blazor**</li>
+      <li>👯 I’m looking to collaborate on **Projects**</li>
+      <li>📫 How to reach me **sumantandon2056@gmail.com**</li>
+    </ul>
   </div>
-  <div class="my-6">
-![Description of the GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+  
+  <div class="my-6" style="flex: 1;">
+    ![Description of the GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+  </div>
+</div>
 
-</div>
-</div>
 ## Skills
 
 - **Languages & Frameworks:**
