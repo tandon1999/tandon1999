@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Tandan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+![Description of the GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
 
 <div class="row">
@@ -11,8 +12,7 @@
       <li>📫 How to reach me **sumantandon2056@gmail.com**</li>
     </ul>
   </div>
-  
-  <div class="my-6" style="flex: 1;">
+  <div class="my-6">
     ![Description of the GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
   </div>
 </div>
