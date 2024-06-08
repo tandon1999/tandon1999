@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Uranus Tech Nepal**
 
-- 🌱 I’m currently learning **.Net franework with Blazor**
+- 🌱 I’m currently learning **.Net framework with Blazor**
 
 - 👨‍💻 All of my projects are available at [https://www.sumantandan.com.np/](https://www.sumantandan.com.np/)
 
