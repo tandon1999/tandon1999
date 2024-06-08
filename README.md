@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **.Net framework with Blazor**
 
-- 👨‍💻 All of my projects are available at [https://www.sumantandan.com.np/](https://www.sumantandan.com.np/)
+- 👨‍💻 All of my projects are available at [Protfoilo](https://www.sumantandan.com.np/)
 
-- 📫 How to reach me **sumantandon2056@gmail.com**
+- 📫 How to reach me **[Email](sumantandon2056@gmail.com)**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1umZ0tByJWPRxdlcTC06gPTaI5t2GNOCK/view?usp=sharing](https://drive.google.com/file/d/1umZ0tByJWPRxdlcTC06gPTaI5t2GNOCK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1umZ0tByJWPRxdlcTC06gPTaI5t2GNOCK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
