@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sumantandon2056@gmail.com**
 
-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+  !https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 
 ## Skills
 
