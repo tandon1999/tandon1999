@@ -3,15 +3,19 @@
 
 
 
-
+<div class="row">
+  <div class="my-6">
 - 🌱 I’m currently learning **.Net framework with Blazor**
 
 - 👯 I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me **sumantandon2056@gmail.com**
+  </div>
+  <div class="my-6">
 ![Description of the GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
-
+</div>
+</div>
 ## Skills
 
 - **Languages & Frameworks:**
