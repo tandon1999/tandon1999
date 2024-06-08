@@ -1,48 +1,28 @@
-# Hi there, I'm Suman Tandan 👋
+<h1 align="center">Hi 👋, I'm Suman Tandan</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tandon1999&label=Profile%20views&color=0e75b6&style=flat" alt="tandon1999" /> </p>
 
-I'm a passionate Software Engineer specializing in .NET development, focusing on creating efficient and scalable web applications. My skill set includes .NET Core, C#, HTML, CSS, Blazor, and MSSQL. I enjoy problem-solving and constantly seek to improve my coding skills and learn new technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tandon1999" alt="tandon1999" /></a> </p>
 
-## Skills
+- 🔭 I’m currently working on **Uracare**
 
-- **Languages & Frameworks:**
+- 🌱 I’m currently learning **.Net franework with Blazor**
 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- 👯 I’m looking to collaborate on **Projects**
 
-- **Databases:**
+- 📫 How to reach me **sumantandon2056@gmail.com**
 
-  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/tandon1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tandon1999" height="30" width="40" /></a>
+</p>
 
-- **Tools & Technologies:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tandon1999&show_icons=true&locale=en&layout=compact" alt="tandon1999" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tandon1999&show_icons=true&locale=en" alt="tandon1999" /></p>
 
-## Contact Me
-
-- **Email:** [sumantandon2056@gmai.com](mailto:sumantandon2056@gmail.com)
-- **LinkedIn:** [Suman](https://www.linkedin.com/in/suman-tandan-566734199/)
-- **GitHub:** [Suman Tandan](https://github.com/tandon1999)
-
-## GitHub Stats
-
-![Portfolio](https://www.sumantandan.com.np/)
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- 
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tandon1999&" alt="tandon1999" /></p>
