@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me **sumantandon2056@gmail.com**
+![Description of the GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
-  !https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 
 ## Skills
 
