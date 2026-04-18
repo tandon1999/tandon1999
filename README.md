@@ -47,7 +47,7 @@
   <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a></td>
   <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
   <td><a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a></td>
-  <td><a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/640px-Blazor.png" alt="Blazor" width="40" height="40"/></a></td>
+  <td><a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" width="40" height="40"/></a></td>
 </tr></table>
 
 ---
@@ -55,9 +55,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tandon1999&theme=flat&no-frame=true&column=7" alt="tandon1999" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=tandon1999&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="tandon1999 trophies" />
 </p>
 
 ---
