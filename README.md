@@ -34,7 +34,7 @@
 name       : Suman Tandan
 role       : Full Stack Developer
 location   : Nepal 🇳🇵
-company    : Uranus Tech Nepal
+company    : Life Crayon Style
 learning   : .NET Framework + Blazor
 focus      : Building scalable web applications
 available  : Open to collaborations ✅
@@ -101,16 +101,6 @@ available  : Open to collaborations ✅
   <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" title="C#"/></a><br/>C#</td>
   <td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/></a><br/>C++</td>
 </tr></table>
-
-</div>
-
----
-
-## `$ git log --trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tandon1999&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 
 </div>
 
