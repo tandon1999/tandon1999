@@ -42,6 +42,29 @@ available  : Open to collaborations ✅
 
 ---
 
+## `$ cat dev_life.gif`
+
+<div align="center">
+
+<table><tr>
+  <td align="center" width="250">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230" height="160" style="border-radius:8px" alt="Coding"/>
+    <br/><sub><b>// always shipping</b></sub>
+  </td>
+  <td align="center" width="250">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" height="160" style="border-radius:8px" alt="Developer at work"/>
+    <br/><sub><b>// deep in the zone</b></sub>
+  </td>
+  <td align="center" width="250">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="160" style="border-radius:8px" alt="Full stack"/>
+    <br/><sub><b>// full stack life</b></sub>
+  </td>
+</tr></table>
+
+</div>
+
+---
+
 ## `$ connect --social`
 
 <div align="center">
