@@ -1,73 +1,145 @@
-<h1 align="center">Hi 👋, I'm Suman Tandan</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tandon1999&label=Profile%20views&color=0e75b6&style=flat" alt="tandon1999" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff0,100:0d1117&height=200&section=header&text=Suman%20Tandan&fontSize=60&fontColor=00fff0&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=60&descSize=18&descColor=8b9eb0&animation=twinkling" width="100%"/>
 
----
+</div>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<div align="center">
 
-- 🔭 I'm currently working on **Uranus Tech Nepal**
-- 🌱 I'm currently learning **.NET framework with Blazor**
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.sumantandan.com.np/)
-- 📫 How to reach me: **sumantandon2056@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1umZ0tByJWPRxdlcTC06gPTaI5t2GNOCK/view?usp=sharing)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;.NET+%7C+Blazor+%7C+Full+Stack+Dev;Currently+%40+Uranus+Tech+Nepal+%F0%9F%8C%8F;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
-<br clear="right"/>
+<br/>
 
----
+<a href="https://www.sumantandan.com.np/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00fff0?style=for-the-badge&logo=vercel&logoColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1umZ0tByJWPRxdlcTC06gPTaI5t2GNOCK/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-ff6b6b?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sumantandon2056@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00fff0"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=tandon1999&style=for-the-badge&color=00fff0&labelColor=0d1117&label=PROFILE+VIEWS"/>
 
-### 🌐 Connect with me
-
-<table><tr>
-  <td><a href="https://linkedin.com/in/suman-tandan-566734199" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></td>
-  <td><a href="https://fb.com/suman.tandan.1999" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a></td>
-  <td><a href="https://instagram.com/tandon.10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a></td>
-</tr></table>
-
----
-
-### 🛠️ Languages and Tools
-
-<table><tr>
-  <td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a></td>
-  <td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
-  <td><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a></td>
-  <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
-  <td><a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
-  <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
-  <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
-  <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/></a></td>
-  <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a></td>
-  <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
-  <td><a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a></td>
-  <td><a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" width="40" height="40"/></a></td>
-</tr></table>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## `$ whoami`
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=tandon1999&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="tandon1999 trophies" />
-</p>
+```yaml
+name       : Suman Tandan
+role       : Full Stack Developer
+location   : Nepal 🇳🇵
+company    : Uranus Tech Nepal
+learning   : .NET Framework + Blazor
+focus      : Building scalable web applications
+available  : Open to collaborations ✅
+```
 
 ---
 
-### 📊 GitHub Stats
+## `$ connect --social`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tandon1999&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tandon1999&show_icons=true&locale=en" alt="GitHub Stats" height="165"/>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandon1999" alt="GitHub Streak" />
-</p>
+<a href="https://linkedin.com/in/suman-tandan-566734199" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://fb.com/suman.tandan.1999" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/tandon.10" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## `$ ls skills/`
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" title="AWS"/></a>
+&nbsp;&nbsp;
+<a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" title="Grafana"/></a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" title="Git"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/></a>
+&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" title="Postman"/></a>
+
+### 🖥️ Backend & Frameworks
+
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="55" height="55" title=".NET"/></a>
+&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" width="50" height="50" title="Blazor"/></a>
+&nbsp;&nbsp;
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" title="Java"/></a>
+&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python"/></a>
+&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" title="MS SQL Server"/></a>
+&nbsp;&nbsp;
+<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" title="Redis"/></a>
+
+### 🎨 Frontend
+
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55" title="HTML5"/></a>
+&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55" title="CSS3"/></a>
+&nbsp;&nbsp;
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="55" height="55" title="Bootstrap"/></a>
+
+### ⚙️ Languages
+
+<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" title="C#"/></a>
+&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/></a>
+
+</div>
+
+---
+
+## `$ git log --trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tandon1999&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## `$ git stats --all`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tandon1999&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00fff0&icon_color=00fff0&title_color=00fff0&text_color=8b9eb0" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tandon1999&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00fff0&title_color=00fff0&text_color=8b9eb0" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tandon1999&theme=dark&background=0d1117&border=00fff0&stroke=00fff0&ring=00fff0&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b9eb0&currStreakLabel=00fff0&sideLabels=8b9eb0&dates=4a5568" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00fff0,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*"Code is poetry written in logic."*
+
+</div>
